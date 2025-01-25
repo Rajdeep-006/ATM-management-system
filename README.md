@@ -86,5 +86,3 @@ This project is licensed under the **MIT License**, so feel free to use and modi
 Get started now and experience the ATM system in action! 💳🌟
 
 ---
-
-This is formatted and ready for direct copy-pasting into your README file. Let me know if you need any further modifications! 😊
